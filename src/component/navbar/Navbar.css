@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: 15px auto;
+}
+.link-list {
+  text-decoration: none;
+  font-size: 20px;
+  color: blue;
+  cursor: pointer;
+}
+.link-list:hover {
+  color: lightblue;
+}

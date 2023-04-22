@@ -1,0 +1,18 @@
+.container {
+  position: absolute;
+}
+.image {
+  text-align: center;
+  margin: 1em auto;
+}
+.img {
+}
+
+.bounding_box {
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 insert;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}

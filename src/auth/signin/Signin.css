@@ -1,0 +1,36 @@
+.form {
+  margin: 15px auto;
+  width: 40%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  height: 50vh;
+}
+.form h1 {
+  text-align: center;
+}
+.form-control {
+  margin: 5px 0;
+  width: 50%;
+  height: 40px;
+  outline: none;
+  background-color: #000;
+  color: #fff;
+  border-color: #000;
+}
+.btn {
+  border-radius: 15px;
+  background-color: #000;
+  color: #fff;
+}
+.account {
+  text-align: center;
+}
+.account p {
+  color: #000;
+}
+.account p span {
+  color: #fff;
+  border-bottom: 5px solid red;
+}
+.account p span .sign-in {
+  text-decoration: none;
+}

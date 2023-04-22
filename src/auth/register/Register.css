@@ -1,0 +1,38 @@
+.form {
+  margin: 0 auto;
+  width: 40%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.form h1 {
+  text-align: center;
+}
+.form-control {
+  margin: 5px 0;
+  width: 50%;
+  height: 40px;
+  outline: none;
+  border-color: #000;
+  background-color: #000;
+}
+.input-field:focus {
+  background-color: #000;
+}
+.btn {
+  border-radius: 15px;
+  background-color: #000;
+  color: #fff;
+}
+.account {
+  margin-bottom: 15px;
+  text-align: center;
+}
+.account p {
+  color: #000;
+}
+.account p span {
+  color: #fff;
+  border-bottom: 5px solid red;
+}
+.account p span .register {
+  text-decoration: none;
+}

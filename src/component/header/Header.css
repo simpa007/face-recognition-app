@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+  margin-top: 6em;
+}
+h3 {
+  color: #fff;
+  font-size: 30px;
+}
+
+p {
+  color: lightgrey;
+  font-size: 20px;
+}
